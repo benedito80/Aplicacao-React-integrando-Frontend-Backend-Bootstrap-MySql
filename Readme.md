@@ -6,7 +6,7 @@
 ## Necessidade do Ambiente devidamente configurado
 - Mysql
 - Node
-- Entre outros...
+- Entre outros... como criar a base de dados e suas tabelas!
 
 ## Autor original do código devidamente modificado
 - https://github.com/nathyts/movies-controll
